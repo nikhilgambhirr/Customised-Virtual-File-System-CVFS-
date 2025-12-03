@@ -2,9 +2,9 @@
 
 🔗Project Overview
 
-    This project is a custom implementation of a Virtual File System (VFS) that simulates the core functionality of the Linux file system. 
-    It is built entirely in C, with its own custom shell to interact with the virtual environment.
-    The project provides a practical understanding of system calls, file handling, memory management, and OS internals
+This project is a custom implementation of a Virtual File System (VFS) that simulates the core functionality of the Linux file system. 
+It is built entirely in C, with its own custom shell to interact with the virtual environment.
+The project provides a practical understanding of system calls, file handling, memory management, and OS internals
 
 🔗Key Features
 
